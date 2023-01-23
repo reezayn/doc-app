@@ -12,3 +12,12 @@
     hover:bg-transparent hover:text-indigo-600 rounded-md
   }
 }
+
+::-webkit-scrollbar{
+  width: 1rem;
+  background-color: #14213d;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: #4539e6;
+}
